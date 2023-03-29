@@ -1,0 +1,9 @@
+﻿  Postfix_Proiect.cpp
+D:\lab modular\Postfix_Proiect\Postfix_Proiect\Postfix_Proiect.cpp(71,19): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\lab modular\Postfix_Proiect\Postfix_Proiect\Postfix_Proiect.cpp(98,9): warning C4101: 'i': unreferenced local variable
+D:\lab modular\Postfix_Proiect\Postfix_Proiect\Postfix_Proiect.cpp(35): warning C4715: 'pop_stiva1': not all control paths return a value
+D:\lab modular\Postfix_Proiect\Postfix_Proiect\Postfix_Proiect.cpp(26): warning C4715: 'pop_stiva': not all control paths return a value
+D:\lab modular\Postfix_Proiect\Postfix_Proiect\Postfix_Proiect.cpp(66): warning C4715: 'operatori': not all control paths return a value
+D:\lab modular\Postfix_Proiect\Postfix_Proiect\Postfix_Proiect.cpp(49): warning C4715: 'operatie': not all control paths return a value
+D:\lab modular\Postfix_Proiect\Postfix_Proiect\Postfix_Proiect.cpp(61): warning C4715: 'prioritate': not all control paths return a value
+  Postfix_Proiect.vcxproj -> D:\lab modular\Postfix_Proiect\x64\Debug\Postfix_Proiect.exe
